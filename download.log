@@ -1,0 +1,130 @@
+2023-10-11 00:36:57,922 [INFO] scheduler.py: Retrial data from 2023-10-05 t 2023-10-10
+2023-10-11 00:36:57,925 [ERROR] scheduler.py: 20231010 is not in index_table, err: '20231010'
+2023-10-11 00:36:57,925 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 00:36:57,925 [ERROR] scheduler.py: 20231008 is not in index_table, err: '20231008'
+2023-10-11 00:36:57,926 [ERROR] scheduler.py: 20231007 is not in index_table, err: '20231007'
+2023-10-11 00:36:57,927 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 00:36:57,927 [ERROR] scheduler.py: 20231005 is not in index_table, err: '20231005'
+2023-10-11 01:02:52,308 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:03:19,021 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:03:30,431 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:03:58,861 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:04:26,121 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:04:41,109 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:04:57,604 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:05:52,584 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:05:52,586 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:05:52,587 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:06:11,114 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:06:11,118 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:06:11,119 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:06:24,601 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:07:13,345 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:07:13,357 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:07:13,357 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:07:41,213 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:07:41,226 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:07:41,226 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:07:59,481 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:07:59,491 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:07:59,491 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:08:12,927 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:08:12,931 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:08:12,931 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:08:17,391 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:08:17,398 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:08:17,398 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:08:20,061 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:08:20,071 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:08:20,071 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:08:46,431 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:11:08,771 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:11:12,524 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:11:12,527 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:11:12,527 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:11:35,808 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:11:35,811 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:11:35,811 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:11:39,868 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:11:39,872 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:11:39,872 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:11:59,011 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:12:17,421 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:12:22,781 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:18:35,699 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:18:35,964 [INFO] index_downloader.py: Index 20231009 coordinates 5524
+2023-10-11 01:18:36,316 [INFO] index_downloader.py: Index 20231005 coordinates 5522
+2023-10-11 01:18:36,796 [WARNING] index_downloader.py: Index 5525 is failure get date, list index out of range
+2023-10-11 01:18:36,853 [INFO] index_downloader.py: Index 20231004 coordinates 5521
+2023-10-11 01:18:37,819 [WARNING] index_downloader.py: Index 5526 is failure get date, list index out of range
+2023-10-11 01:18:38,131 [INFO] index_downloader.py: Index 20231003 coordinates 5520
+2023-10-11 01:18:38,134 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:18:38,208 [INFO] index_downloader.py: Index 20231009 coordinates 5524
+2023-10-11 01:18:38,281 [INFO] index_downloader.py: Index 20231005 coordinates 5522
+2023-10-11 01:18:38,283 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:19:49,875 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:19:49,976 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:19:50,052 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:19:51,114 [WARNING] index_downloader.py: Index 5525 is failure get date, list index out of range
+2023-10-11 01:19:51,190 [INFO] index_downloader.py: Date 20231004 coordinates index 5521
+2023-10-11 01:19:51,594 [WARNING] index_downloader.py: Index 5526 is failure get date, list index out of range
+2023-10-11 01:19:51,648 [INFO] index_downloader.py: Date 20231003 coordinates index 5520
+2023-10-11 01:19:51,648 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:19:51,702 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:19:51,795 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:19:51,798 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:21:12,176 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:21:12,383 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:21:12,459 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:21:12,985 [WARNING] index_downloader.py: Index 5525 is failure get date, list index out of range
+2023-10-11 01:21:13,061 [INFO] index_downloader.py: Date 20231004 coordinates index 5521
+2023-10-11 01:21:13,297 [WARNING] index_downloader.py: Index 5526 is failure get date, list index out of range
+2023-10-11 01:21:13,365 [INFO] index_downloader.py: Date 20231003 coordinates index 5520
+2023-10-11 01:21:13,367 [INFO] downloader.py: Downloading at 20231009
+2023-10-11 01:21:15,223 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:21:15,305 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:21:15,306 [INFO] downloader.py: Downloading at 20231006
+2023-10-11 01:22:05,092 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:22:09,591 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:22:09,797 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:22:10,524 [WARNING] index_downloader.py: Index 5525 is failure get date, list index out of range
+2023-10-11 01:22:10,731 [INFO] index_downloader.py: Date 20231004 coordinates index 5521
+2023-10-11 01:22:12,021 [WARNING] index_downloader.py: Index 5526 is failure get date, list index out of range
+2023-10-11 01:22:12,611 [INFO] index_downloader.py: Date 20231003 coordinates index 5520
+2023-10-11 01:22:15,044 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:22:16,902 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:22:17,072 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:22:21,576 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:24:03,446 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:24:07,141 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:24:07,351 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:24:08,481 [WARNING] index_downloader.py: Index 5525 is failure get date, list index out of range
+2023-10-11 01:24:08,991 [INFO] index_downloader.py: Date 20231004 coordinates index 5521
+2023-10-11 01:24:09,531 [WARNING] index_downloader.py: Index 5526 is failure get date, list index out of range
+2023-10-11 01:24:10,492 [INFO] index_downloader.py: Date 20231003 coordinates index 5520
+2023-10-11 01:24:11,994 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:24:13,196 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:24:13,336 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:24:16,474 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:24:44,792 [INFO] scheduler.py: Retrival data from 2023-10-05 to 2023-10-10
+2023-10-11 01:24:44,977 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:24:45,045 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:24:45,421 [WARNING] index_downloader.py: Index 5525 is failure get date, list index out of range
+2023-10-11 01:24:45,481 [INFO] index_downloader.py: Date 20231004 coordinates index 5521
+2023-10-11 01:24:45,740 [WARNING] index_downloader.py: Index 5526 is failure get date, list index out of range
+2023-10-11 01:24:45,800 [INFO] index_downloader.py: Date 20231003 coordinates index 5520
+2023-10-11 01:24:46,053 [WARNING] index_downloader.py: Index 5527 is failure get date, list index out of range
+2023-10-11 01:24:46,240 [INFO] index_downloader.py: Date 20231002 coordinates index 5519
+2023-10-11 01:24:46,243 [INFO] downloader.py: File at 20231009 downloaded
+2023-10-11 01:24:46,341 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:24:46,433 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:24:46,822 [WARNING] index_downloader.py: Index 5525 is failure get date, list index out of range
+2023-10-11 01:24:46,946 [INFO] index_downloader.py: Date 20231004 coordinates index 5521
+2023-10-11 01:24:47,024 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:24:47,116 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:24:47,117 [INFO] downloader.py: File at 20231006 downloaded
+2023-10-11 01:24:47,206 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:24:47,267 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:24:47,323 [INFO] index_downloader.py: Date 20231009 coordinates index 5524
+2023-10-11 01:24:47,385 [INFO] index_downloader.py: Date 20231005 coordinates index 5522
+2023-10-11 01:24:47,387 [INFO] downloader.py: Downloading at 20231005
